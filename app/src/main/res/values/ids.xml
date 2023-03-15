@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="num1" type="id" />
+    <item name="num2" type="id" />
+    <item name="resultado_potencia" type="id" />
+    <item name="resultado_multiplicacion" type="id" />
+    <item name="btnFibonacci" type="id" />
+    <item name="calcular_fibarocci" type="id" />
+    <item name="calcularFibonacci" type="id" />
+    <item name="num1" type="id" />
+    <item name="num2" type="id" />
+    <item name="btnFibonacci" type="id" />
+    <item name="btnMultiplicacion" type="id" />
+    <item name="btnPotencia" type="id" />
+    <item name="resultado" type="id" />
+</resources>

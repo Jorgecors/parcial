@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ingrese dos números:"
+        android:textSize="20sp"/>
+
+    <EditText
+        android:id="@+id/num1"
+        android:layout_width="match_parent"
+        android:layout_height="87dp"
+        android:hint="Número 1"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/num2"
+        android:layout_width="match_parent"
+        android:layout_height="117dp"
+        android:hint="Número 2"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/btnFibonacci"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fibanocci" />
+
+    <Button
+        android:id="@+id/btnMultiplicacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MULTIPLICACION" />
+
+    <Button
+        android:id="@+id/btnPotencia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="POTENCIA" />
+
+</LinearLayout>
